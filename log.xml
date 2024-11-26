@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<session><command>ls</command><command>cd dir1</command><command>ls</command></session>

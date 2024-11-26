@@ -1,0 +1,4 @@
+computer_name: "test-computer"
+path_to_tar: "empty.tar"
+path_to_log: "log.xml"
+path_to_script: "startup_script.sh"

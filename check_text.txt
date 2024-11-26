@@ -1,0 +1,48 @@
+ if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit()
+ if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit()
+ if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit()
+ if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit()
+
+ if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit() if(self.path_to_script != None and self.path_to_script[0:2] == "./"):
+            self.run_script(self.path_to_script)
+        try:
+            while True:
+                command = input(f"{self.user_name}@{self.cwd}> ")
+                self.execute_command(command)
+        except KeyboardInterrupt:
+            self.exit()
