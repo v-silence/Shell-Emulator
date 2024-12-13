@@ -29,17 +29,7 @@ startup_script_path - путь к стартовому скрипту, кото�
 
 ## Установка
 - ### Клонируйте репозиторий с проектом:
-git clone git@github.com:v-silence/Shell-Emulator.git
+https://github.com/v-silence/Shell-Emulator.git
 - ### Перейдите в директорию проекта:
 cd Shell-Emulator
 - ### Установите необходимые зависимости
-
-
-
-
-cd unix-shell-emulator
-Установите необходимые зависимости:
-text
-
-Copy
-pip install -r requirements.txt
